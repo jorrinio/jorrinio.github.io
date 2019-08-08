@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Instalaciones en energía renovable</h2>
-<p>El mundo está cambiando y es importante buscar la instalación de algunas fuentes de energía renovable en tu hogar. Los técnicos de <strong>Vowei Solar</strong> tienen experiencia en ofrecer servicios técnicos de instalación de energía renovable, incluyendo <strong>paneles solares</strong> en techos y <strong>turbinas eólicas</strong> domésticas que son perfectas para reducir las facturas de la electricidad. Con base en Azuqueca de Henares, nos aseguramos de que se cumplan todos los requisitos de permiso de planificación y que tus sistemas de energía estén instalados de manera segura. Llámanos en el 637287891 para obtener más información sobre lo que te podemos ofrecer..</p>
+<p>El mundo está cambiando y es importante buscar la instalación de algunas fuentes de energía renovable en tu hogar. Los técnicos de <strong>Vowei Solar</strong> tienen experiencia en ofrecer servicios técnicos de instalación de energía renovable, incluyendo <strong>paneles solares</strong> en techos y <strong>turbinas eólicas</strong> domésticas que son perfectas para reducir las facturas de la electricidad. Con base en Azuqueca de Henares, nos aseguramos de que se cumplan todos los requisitos de permiso de planificación y que tus sistemas de energía estén instalados de manera segura. Llámanos en el 949 500 101 para obtener más información sobre lo que te podemos ofrecer..</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Instalación de energía comercial</h3>
