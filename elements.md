@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Instalaciones en energía renovable</h2>
-<p>El mundo está cambiando y es importante buscar la instalación de algunas fuentes de energía renovable en tu hogar. Los técnicos de <strong>Vowei Solar</strong> tienen experiencia en ofrecer servicios técnicos de instalación de energía renovable, incluyendo <strong>paneles solares</strong> en techos y <strong>turbinas eólicas</strong> domésticas que son perfectas para reducir las facturas de la electricidad. Con base en Azuqueca de Henares, nos aseguramos de que se cumplan todos los requisitos de permiso de planificación y que tus sistemas de energía estén instalados de manera segura. Llámanos en el 949 500 101 para obtener más información sobre lo que te podemos ofrecer..</p>
+<p>El mundo está cambiando y es importante buscar la instalación de algunas fuentes de energía renovable en tu hogar. Los técnicos de <strong>Vowei Solar</strong> tienen experiencia en ofrecer servicios técnicos de instalación de energía renovable, incluyendo <strong>paneles solares</strong> en techos que son perfectos para reducir las facturas de la electricidad. Con base en Azuqueca de Henares, nos aseguramos de que se cumplan todos los requisitos de permiso de planificación y que tus sistemas de energía estén instalados de manera segura. Llámanos en el 949 500 101 para obtener más información sobre lo que te podemos ofrecer..</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Instalación de energía comercial</h3>
@@ -24,7 +24,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Instalación de energía doméstica</h3>
-		<p>Sea cuál sea tu opinión respecto a las soluciones de energía renovable, te podemos garantizar que la instalación de paneles solares, una turbina eólica o incluso una forma de sistema de energía hidroeléctrica en tu hogar, reducirá enormemente tus facturas al final del mes. Los paneles solares y las turbinas de viento ya no son desagradables a la vista, y nuestros técnicos son capaces de instalarlos para que sean discretos y no comprometan la integridad de tu hogar. Descubre cómo puedes reducir las facturas de electricidad y salvar el planeta hoy.</p>
+		<p>Sea cuál sea tu opinión respecto a las soluciones de energía renovable, te podemos garantizar que la instalación de paneles solares en tu hogar, reducirá enormemente tus facturas al final del mes. Los paneles solares ya no son desagradables a la vista, y nuestros técnicos son capaces de instalarlos para que sean discretos y no comprometan la integridad de tu hogar. Descubre cómo puedes reducir las facturas de electricidad y salvar el planeta hoy.</p>
 	</div>
 </div>
 
