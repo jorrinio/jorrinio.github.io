@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Servicios
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Servicios</h1>
 		</header>
 
 <!-- Content -->
@@ -44,7 +44,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">Servicios</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 

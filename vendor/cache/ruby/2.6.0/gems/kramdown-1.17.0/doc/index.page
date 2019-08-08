@@ -5,7 +5,7 @@ sort_info: 1
 ---
 ## Overview
 
-If you want to get started with kramdown, have a look at the [installation page](installation.html)
+If you want to Empecemos with kramdown, have a look at the [installation page](installation.html)
 to see how you can install it on your system. Then look through the
 [documentation](documentation.html) for finding information about how to actually use kramdown and
 its parsers/converters. The [quick reference](quickref.html) provides a overview of the syntax -- if

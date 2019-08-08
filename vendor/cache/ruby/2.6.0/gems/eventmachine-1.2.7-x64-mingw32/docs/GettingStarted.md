@@ -7,7 +7,7 @@
 
 ## About this guide ##
 
-This guide is a quick tutorial that helps you to get started with EventMachine for writing event-driven
+This guide is a quick tutorial that helps you to Empecemos with EventMachine for writing event-driven
 servers, clients and using it as a lightweight concurrency library.
 It should take about 20 minutes to read and study the provided code examples. This guide covers
 
