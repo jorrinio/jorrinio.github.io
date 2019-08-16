@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>¿Por qué pasar a este tipo de energías?</h2>
+			<h2>¿Por qué cambiar a este tipo de energías?</h2>
 		</header>
 		<p></p>
 	</div>
