@@ -26,6 +26,17 @@ nav-menu: true
 		<h3>Instalación de energía doméstica</h3>
 		<p>Sea cuál sea tu opinión respecto a las soluciones de energía renovable, te podemos garantizar que la instalación de paneles solares en tu hogar, reducirá enormemente tus facturas al final del mes. Los paneles solares ya no son desagradables a la vista, y nuestros técnicos son capaces de instalarlos para que sean discretos y no comprometan la integridad de tu hogar. Descubre cómo puedes reducir las facturas de electricidad y salvar el planeta hoy.</p>
 	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Descargue nuestro último folleto</h3>
+		<p>AUTOCONSUMO. 
+		Gracias al real decreto 244/2019 en el que se regula el autoconsumo y su vertido a la red, nos podemos beneficiar del excedente de nuestra instalación, ya no se pierde, ya que las comercializadoras eléctricas nos tienen que compensar por dicha energía no utilizada, sin gastos, ni impuestos, compensándonos mes a mes en nuestra factura de luz.
+		Esto genera que al usar energías limpias y rápidamente amortizables cumplamos dos objetivos fundamentales, SOSTENIBILIDAD Y AHORRO.
+		Por todo ello no dudes en ponerte en contacto con nosotros y te propondremos una instalación fotovoltaica por menos dinero de lo que te imaginas.
+		TU bolsillo y NUESTRO planeta te lo agradecerá.
+		INFORMACIÓN SIN COMPROMISO.
+		</p>
+		<a href="descargas/folleto II voweisolar.pdf" download>Descargar</a>
+	</div>
 </div>
 
 </div>
