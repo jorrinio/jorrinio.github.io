@@ -15,11 +15,11 @@ nav-menu: true
 <h2 id="content">Facilidades</h2>
 <p></p>
 <div class="6u 12u$(small)">
-    <h3><span class="icon fa-calculator"></span> Presupuesto sin Compromiso</h3>
+    <h3><span class="icon fa-calculator"></span>Presupuesto sin Compromiso</h3>
     <p></p>
 </div>
 <div class="6u$ 12u$(small)">
-    <h3><span class="icon alt fa-commenting"></span> Consulta gratuita</h3>
+    <h3><span class="icon alt fa-commenting"></span>Consulta gratuita</h3>
     <p></p>
 </div>
 
