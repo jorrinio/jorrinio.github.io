@@ -70,6 +70,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="https://www.xataka.com/automovil/manana-me-compro-coche-electrico-que-necesito-saber-donde-como-cargarlo" class="image">
+			<img src="assets/images/xatakaAutoElect.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>XATAKA - Si mañana me compro un coche eléctrico</h3>
+				</header>
+				<p>¿qué necesito saber sobre dónde y cómo cargarlo? </p>
+				<ul class="actions">
+					<li><a href="https://www.xataka.com/automovil/manana-me-compro-coche-electrico-que-necesito-saber-donde-como-cargarlo" class="button">Saber más</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three 

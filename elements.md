@@ -34,8 +34,9 @@ nav-menu: true
 		Por todo ello no dudes en ponerte en contacto con nosotros y te propondremos una instalación fotovoltaica por menos dinero de lo que te imaginas.
 		TU bolsillo y NUESTRO planeta te lo agradecerá.
 		INFORMACIÓN SIN COMPROMISO.
+		<span class="icon alt fa-download">   <a href="descargas/folleto II voweisolar.pdf" download>   Descargar</a></span>
 		</p>
-		<a href="descargas/folleto II voweisolar.pdf" download>Descargar</a>
+		
 	</div>
 </div>
 
