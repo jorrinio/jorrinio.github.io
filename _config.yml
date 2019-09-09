@@ -3,8 +3,7 @@ title: Vowei
 subtitle: by Solar Development
 email: info@voweisolar.com
 description: <br /> el cambio a la energía renovable, sostenible, limpia, ecológica, <b>barata</b>, y disponible.
-baseurl: "/vowei" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://voweisolar.com"
 author:
 street_address: Calle la Comunicación, 7
 city: Azuqueca de Henares
