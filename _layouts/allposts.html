@@ -24,7 +24,16 @@
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+    {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+    {% if post.image1 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image1 }}" alt="" /></span>{% endif %}
+    {% if post.image2 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image2 }}" alt="" /></span>{% endif %}
+    {% if post.image3 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image3 }}" alt="" /></span>{% endif %}
+    {% if post.image4 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image4 }}" alt="" /></span>{% endif %}
+    {% if post.image5 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image5 }}" alt="" /></span>{% endif %}
+    {% if post.image6 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image6 }}" alt="" /></span>{% endif %}
+    {% if post.image7 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image7 }}" alt="" /></span>{% endif %}
+    {% if post.image8 %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image8 }}" alt="" /></span>{% endif %}
+
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
