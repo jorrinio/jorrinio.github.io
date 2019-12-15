@@ -22,6 +22,22 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.efe.com/efe/america/portada/diez-claves-del-acuerdo-chile-madrid-tiempo-de-actuar-la-cop25/20000064-4132900" class="image" target="_blank">
+			<img src="assets/images/acuerdoclima.jpg" alt="" data-position="center center" />
+		</a>	
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Diez claves del acuerdo "Chile-Madrid Tiempo de Actuar" de la COP25 de Madrid</h3>
+				</header>
+				<p>El acuerdo "Chile-Madrid Tiempo de Actuar" con el que ha concluido este domingo la vigésimo quinta Conferencia de las Partes (COP25) del Clima de Naciones Unidas, sienta las bases para una mayor ambición frente a la emergencia climática y abre un nuevo ciclo en estas reuniones de Naciones Unidas basadas en la acción y que todos los participantes hagan más y más rápido.</p>
+				<ul class="actions">
+					<li><a href="https://www.efe.com/efe/america/portada/diez-claves-del-acuerdo-chile-madrid-tiempo-de-actuar-la-cop25/20000064-4132900" target="_blank" class="button">Saber más</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.idae.es/" class="image" target="_blank">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>	
