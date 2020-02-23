@@ -20,11 +20,11 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>DOSIER</h3>
-		<p>GRUPO VOWEI SOLAR desde la provincia de Guadalajara trabajamos dando servicio al resto de España.
-Nuestra empresa de instalaciones fotovoltaicas especialistas en autoconsumo con y sin vertido a red para empresas, instituciones publicas y hogares.
-Damos servicios “Llave en mano” (ingeniería, legalización, instalación, asesoramiento hasta la puesta en marcha de la instalación). Contamos con los mejores proveedores a nivel mundial de material fotovoltaico para el suministro a nuestros clientes.
-Al mismo tiempo Vowei Solar se ha propuesto el objetivo de crear un futuro sostenible a la vez de rentabilidad desde el primer día de funcionamiento de nuestras instalaciones.
-Asesoramos y realizamos presupuestos sin compromiso ajustados al consumo de nuestros clientes.<span class="icon alt fa-download">   <a href="descargas/dosier.pdf" download>   Descargar</a></span></p>		
+		<p>Desde la provincia de Guadalajara trabajamos dando servicio al resto de España.
+		Nuestra empresa de instalaciones fotovoltaicas especialistas en autoconsumo con y sin vertido a red para empresas, instituciones publicas y hogares.
+		Damos servicios “Llave en mano” (ingeniería, legalización, instalación, asesoramiento hasta la puesta en marcha de la instalación). Contamos con los mejores proveedores a nivel mundial de material fotovoltaico para el suministro a nuestros clientes.
+		Al mismo tiempo Vowei Solar se ha propuesto el objetivo de crear un futuro sostenible a la vez de rentabilidad desde el primer día de funcionamiento de nuestras instalaciones.
+		Asesoramos y realizamos presupuestos sin compromiso ajustados al consumo de nuestros clientes.<span class="icon alt fa-download">   <a href="descargas/dosier.pdf" download>Descargar PDF</a></span></p>		
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Instalación de energía comercial</h3>
