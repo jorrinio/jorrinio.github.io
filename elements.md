@@ -12,6 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Servicios</h1>
+			<h2>Añadimos el Dosier de la empresa con más información</h2>
 		</header>
 
 <!-- Content -->
