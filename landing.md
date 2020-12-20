@@ -22,6 +22,31 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366" class="image" target="_blank">
+			<img src="assets/images/Australia.jpg" alt="" data-position="center center" />
+		</a>	
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>All of South Australia's power comes from solar panels in world first for major jurisdiction</h3>
+					<h4>
+Toda la energía de Australia del Sur proviene de paneles solares, la mayor región del mundo</h4>
+				</header>
+				<p>South Australia's renewable energy boom has achieved a global milestone.
+Key points:
+All of SA's power came from solar for one hour on October 11
+The generation of too much solar power can create grid instability
+A new interconnector planned with NSW will help manage the growth of solar power
+The state once known for not having enough power has become the first major jurisdiction in the world to be powered entirely by solar energy.
+For just over an hour on Sunday, October 11, 100 per cent of energy demand was met by solar panels alone.
+"This is truly a phenomenon in the global energy landscape," Australian Energy Market Operator (AEMO) chief executive Audrey Zibelman said.</p>
+				<ul class="actions">
+					<li><a href="https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366" target="_blank" class="button">Saber más</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.pv-magazine.com/2020/12/04/germany-hits-2-million-pv-system-installations/" class="image" target="_blank">
 			<img src="assets/images/Germany2PV.jpg" alt="" data-position="center center" />
 		</a>	
