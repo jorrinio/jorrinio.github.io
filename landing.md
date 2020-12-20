@@ -22,6 +22,26 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.pv-magazine.com/2020/12/04/germany-hits-2-million-pv-system-installations/" class="image" target="_blank">
+			<img src="assets/images/Germany2PV.jpg" alt="" data-position="center center" />
+		</a>	
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Germany hits 2 million PV system installations</h3>
+					<h4>
+Alemania alcanza los 2 millones de instalaciones de sistemas fotovoltaicos</h4>
+				</header>
+				<p>By the end of October, roughly 2 million PV systems were in operation across Germany, according to the German Solar Industry Association (BSW-Solar), which cited statistics from the the Federal Network Agency (Bundesnetzagentur).
+The installed PV systems in Germany are able to generate around 50 billion kWh of electricity per year. They could theoretically cover the power consumption of 17 million average households. For BSW-Solar, this marks an “energy transition milestone.”
+However, the association said that future deployment is uncertain, as the renewable energy law (EEF) will be amended in 2021. It warned that demand for rooftop PV could be halved. In addition, almost one in four PV systems is threatened by premature termination in the course of the 2020s, as the EEG draft has thus far failed to provide any economic options for the continued operation of PV systems that have been online for more than a decade.</p>
+				<ul class="actions">
+					<li><a href="https://www.pv-magazine.com/2020/12/04/germany-hits-2-million-pv-system-installations/" target="_blank" class="button">Saber más</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.efe.com/efe/america/portada/diez-claves-del-acuerdo-chile-madrid-tiempo-de-actuar-la-cop25/20000064-4132900" class="image" target="_blank">
 			<img src="assets/images/acuerdoclima.jpg" alt="" data-position="center center" />
 		</a>	
