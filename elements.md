@@ -19,12 +19,12 @@ nav-menu: true
 <h2 id="content">Instalaciones en energía renovable</h2>
 <p>El mundo está cambiando y es importante buscar la instalación de algunas fuentes de energía renovable en tu hogar. Los técnicos de <strong>Vowei Solar</strong> tienen experiencia en ofrecer servicios técnicos de instalación de energía renovable, incluyendo <strong>paneles solares</strong> en techos que son perfectos para reducir las facturas de la electricidad. Con base en Azuqueca de Henares, nos aseguramos de que se cumplan todos los requisitos de permiso de planificación y que tus sistemas de energía estén instalados de manera segura. Llámanos en el 949 500 101 para obtener más información sobre lo que te podemos ofrecer.</p>
 
-<h2 id="content">DOSIER</h2>
+<h2 id="content">NUEVO DOSIER</h2>
 <p>Desde la provincia de Guadalajara trabajamos dando servicio al resto de España.
 Nuestra empresa de instalaciones fotovoltaicas especialistas en autoconsumo con y sin vertido a red para empresas, instituciones publicas y hogares.
 Damos servicios “Llave en mano” (ingeniería, legalización, instalación, asesoramiento hasta la puesta en marcha de la instalación). Contamos con los mejores proveedores a nivel mundial de material fotovoltaico para el suministro a nuestros clientes.
 Al mismo tiempo Vowei Solar se ha propuesto el objetivo de crear un futuro sostenible a la vez de rentabilidad desde el primer día de funcionamiento de nuestras instalaciones.
-Asesoramos y realizamos presupuestos sin compromiso ajustados al consumo de nuestros clientes.<span class="icon alt fa-download">   <a href="descargas/dosier.pdf" download>Descargar PDF</a></span></p>	
+Asesoramos y realizamos presupuestos sin compromiso ajustados al consumo de nuestros clientes.<span class="icon alt fa-download">   <a href="descargas/dosiervowei 21b.pdf" download>Descargar PDF</a></span></p>	
 
 <div class="row">	
 	<div class="6u 12u$(small)">
