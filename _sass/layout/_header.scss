@@ -136,6 +136,13 @@
 			background-color: transparent;
 			box-shadow: none;
 			position: absolute;
+			background-image: url("../images/VOWEI-SOLAR.jpg");
+			width: 100vw;
+			height: 100vh; 
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			position: relative;
+
 
 			&.style1 { .logo { strong { color: _palette(accent1); } } }
 			&.style2 { .logo { strong { color: _palette(accent2); } } }
